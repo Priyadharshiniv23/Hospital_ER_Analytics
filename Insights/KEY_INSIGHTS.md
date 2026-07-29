@@ -6,20 +6,20 @@ This project presents an end-to-end healthcare analytics solution developed usin
 
 **Business Questions and Insights**
 
-1️⃣ How many patients visited the Emergency Room?
+**1.How many patients visited the Emergency Room?**
 
-Finding : 
+**Finding : **
 A total of 9,216 patients visited the Emergency Room during the analysis period.
 
-Business Insight: 
+**Business Insight: **
 The hospital consistently handles a high volume of emergency cases, demonstrating a significant workload across departments. This highlights the importance of efficient patient flow management and effective resource planning.
 
-Recommendation: 
+**Recommendation: **
 Regularly monitor patient volume to ensure adequate staffing, medical supplies, and treatment capacity.
 
-2️⃣ What was the overall admission rate?
+**2. What was the overall admission rate?**
 
-Finding :
+**Finding :**
 
 50% of patients were admitted.
 
