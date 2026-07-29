@@ -213,31 +213,6 @@ Based on the analysis:
 
 ---
 
-# 📁 Project Structure
-
-```
-Hospital-ER-Analytics
-│
-├── Dataset
-│   └── Hospital_ER_Data.csv
-│
-├── Python
-│   └── Hospital_ER_Analysis.ipynb
-│
-├── SQL
-│   └── Hospital_ER_SQL_Queries.sql
-│
-├── Tableau
-│   └── Hospital_ER_Dashboard.twbx
-│
-├── Images
-│   └── dashboard.png
-│
-└── README.md
-```
-
----
-
 # 🎓 Skills Demonstrated
 
 - Data Cleaning & Preprocessing
@@ -259,12 +234,3 @@ The **Hospital Emergency Room Analytics Dashboard** demonstrates a complete heal
 The project successfully converts raw hospital data into actionable insights by identifying patient trends, operational challenges, waiting time issues, and satisfaction patterns.
 
 The interactive dashboard enables healthcare stakeholders to make informed decisions and improve emergency department efficiency.
-
----
-
-# 👩‍💻 Author
-
-**Priyadharshini V**
-
-🎓 B.Tech Information Technology  
-📊 Aspiring Data Analyst | Full Stack Developer
