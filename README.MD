@@ -174,14 +174,6 @@ An interactive Tableau dashboard was developed to monitor emergency room perform
 
 ---
 
-# 🖥️ Dashboard Preview
-
-Add your Tableau dashboard screenshot:
-
-![Hospital ER Dashboard](Images/dashboard.png)
-
----
-
 # 🔍 Business Insights
 
 ### Patient Volume
@@ -234,3 +226,11 @@ The **Hospital Emergency Room Analytics Dashboard** demonstrates a complete heal
 The project successfully converts raw hospital data into actionable insights by identifying patient trends, operational challenges, waiting time issues, and satisfaction patterns.
 
 The interactive dashboard enables healthcare stakeholders to make informed decisions and improve emergency department efficiency.
+
+# 🖥️ Dashboard Preview
+
+Add your Tableau dashboard screenshot:
+
+![Hospital ER Dashboard](Images/dashboard.png)
+
+---
