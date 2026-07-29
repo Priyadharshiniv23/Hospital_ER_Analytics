@@ -1,10 +1,10 @@
-📊 Hospital Emergency Room Analytics – Project Insights
+**Hospital Emergency Room Analytics – Project Insights**
 
-📌 Executive Summary
+**Executive Summary**
 
 This project presents an end-to-end healthcare analytics solution developed using Python, SQL, and Tableau. The analysis is based on 9,216 Emergency Room (ER) patient records to identify operational trends, evaluate department performance, analyze patient flow, and measure service quality. Python was used for data cleaning and preprocessing, SQL for business intelligence and analytical queries, and Tableau for creating an interactive dashboard that supports data-driven decision-making.
 
-📈 Business Questions and Insights
+**Business Questions and Insights**
 
 1️⃣ How many patients visited the Emergency Room?
 
@@ -22,6 +22,7 @@ Regularly monitor patient volume to ensure adequate staffing, medical supplies, 
 Finding :
 
 50% of patients were admitted.
+
 50% of patients were treated and discharged.
 
 Business Insight: 
@@ -172,5 +173,3 @@ The analysis successfully:
 5. Provided actionable recommendations for improving hospital efficiency and patient care.
 6. Demonstrated practical expertise in Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, Business Intelligence, Data Visualization, and Dashboard Development.
 
-✅ Conclusion
-The Hospital Emergency Room Analytics project demonstrates how healthcare organizations can leverage data analytics to improve operational performance and patient outcomes. By integrating Python for data preparation, SQL for business intelligence, and Tableau for interactive visualization, the project delivers actionable insights into patient volume, admissions, waiting times, department performance, and patient satisfaction. These findings provide hospital administrators with a strong foundation for making informed, data-driven decisions that enhance both operational efficiency and the quality of emergency healthcare services.
