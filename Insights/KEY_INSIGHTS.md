@@ -1,4 +1,5 @@
 📊 Hospital Emergency Room Analytics – Project Insights
+
 📌 Executive Summary
 
 This project presents an end-to-end healthcare analytics solution developed using Python, SQL, and Tableau. The analysis is based on 9,216 Emergency Room (ER) patient records to identify operational trends, evaluate department performance, analyze patient flow, and measure service quality. Python was used for data cleaning and preprocessing, SQL for business intelligence and analytical queries, and Tableau for creating an interactive dashboard that supports data-driven decision-making.
@@ -6,6 +7,7 @@ This project presents an end-to-end healthcare analytics solution developed usin
 📈 Business Questions and Insights
 
 1️⃣ How many patients visited the Emergency Room?
+
 Finding : 
 A total of 9,216 patients visited the Emergency Room during the analysis period.
 
@@ -18,6 +20,7 @@ Recommendation:
 Regularly monitor patient volume to ensure adequate staffing, medical supplies, and treatment capacity.
 
 2️⃣ What was the overall admission rate?
+
 Finding :
 50% of patients were admitted.
 50% of patients were treated and discharged.
@@ -31,6 +34,7 @@ Recommendation:
 Monitor admission trends periodically to improve bed management and optimize inpatient resource allocation.
 
 3️⃣ Which departments experienced the longest patient waiting times?
+
 Finding:
 Neurology recorded the highest average waiting time.
 Physiotherapy also experienced longer waiting times compared to other departments.
@@ -44,6 +48,7 @@ Recommendation:
 Increase specialist availability, optimize appointment scheduling, and review departmental workflows to reduce patient delays.
 
 4️⃣ What is the average patient waiting time?
+
 Finding:
 The average patient waiting time was 35.3 minutes.
 
@@ -56,6 +61,7 @@ Recommendation:
 Continuously monitor waiting time KPIs and implement queue management strategies for faster patient service.
 
 5️⃣ How did patient volume change over time?
+
 Finding:
 Monthly patient visits remained stable, ranging between 431 and 530 patients.
 
@@ -68,6 +74,7 @@ Recommendation:
 Use historical patient trends to forecast future demand and optimize staff scheduling during peak periods.
 
 6️⃣ How satisfied were patients with Emergency Room services?
+
 Finding:
 The average patient satisfaction score was 5.0 out of 10.
 
@@ -80,6 +87,7 @@ Recommendation:
 Collect regular patient feedback and implement quality improvement initiatives to increase patient satisfaction.
 
 7️⃣ Did patient satisfaction vary by gender?
+
 Finding:
 Male and female patients reported similar satisfaction levels.
 The NC category recorded comparatively lower satisfaction scores.
@@ -93,6 +101,7 @@ Recommendation:
 Conduct further analysis to identify factors affecting satisfaction among different patient groups and implement inclusive service improvement strategies.
 
 8️⃣ Which departments handled the highest patient workload?
+
 Finding:
 Patient referrals were distributed across multiple specialist departments, with varying workloads.
 
@@ -105,6 +114,7 @@ Recommendation:
 Continuously monitor department workloads and adjust staffing levels based on patient demand.
 
 9️⃣ What operational insights can hospital management gain from this analysis?
+
 Finding:
 
 The integrated analysis identified trends in patient volume, admission rates, waiting times, department performance, and patient satisfaction.
@@ -118,6 +128,7 @@ Recommendation:
 Use interactive dashboards and real-time performance monitoring to support continuous operational improvement.
 
 🛠 Technology Contributions
+
 🐍 Python
 
 Python was used to prepare the dataset for analysis through:
