@@ -1,6 +1,6 @@
-# 🏥 Hospital Emergency Room Analytics Dashboard
+#  Hospital Emergency Room Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Hospital Emergency Room Analytics Dashboard** is an end-to-end healthcare analytics project that analyzes emergency department operations using **Python, SQL, and Tableau**.
 
@@ -10,7 +10,7 @@ The objective is to support healthcare decision-makers with data-driven insights
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze overall emergency room patient volume.
 - Identify departments with higher patient waiting times.
@@ -21,7 +21,7 @@ The objective is to support healthcare decision-makers with data-driven insights
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Usage |
 |------------|-------|
@@ -34,7 +34,7 @@ The objective is to support healthcare decision-makers with data-driven insights
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```
 Raw Hospital ER Dataset
@@ -52,7 +52,7 @@ Insights & Recommendations
 
 ---
 
-# 📊 Dataset Description
+#  Dataset Description
 
 The dataset contains emergency room patient records with the following attributes:
 
@@ -68,7 +68,7 @@ The dataset contains emergency room patient records with the following attribute
 
 ---
 
-# 🐍 Data Analysis Using Python
+#  Data Analysis Using Python
 
 ## Data Preparation
 
@@ -91,7 +91,7 @@ Generated new features:
 
 ---
 
-# 🗄️ SQL Business Analysis
+#  SQL Business Analysis
 
 SQL queries were developed to answer key healthcare business questions:
 
@@ -135,7 +135,7 @@ Monthly patient arrivals remained stable throughout the analysis period.
 
 ---
 
-# 📈 Key Performance Indicators (KPIs)
+#  Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |-----|-------|
@@ -146,7 +146,7 @@ Monthly patient arrivals remained stable throughout the analysis period.
 
 ---
 
-# 📊 Tableau Dashboard
+#  Tableau Dashboard
 
 An interactive Tableau dashboard was developed to monitor emergency room performance.
 
@@ -174,7 +174,7 @@ An interactive Tableau dashboard was developed to monitor emergency room perform
 
 ---
 
-# 🔍 Business Insights
+#  Business Insights
 
 ### Patient Volume
 - Emergency services managed **9,216 patients**.
@@ -193,7 +193,7 @@ An interactive Tableau dashboard was developed to monitor emergency room perform
 
 ---
 
-# 💡 Recommendations
+#  Recommendations
 
 Based on the analysis:
 
@@ -205,7 +205,7 @@ Based on the analysis:
 
 ---
 
-# 🎓 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -219,7 +219,7 @@ Based on the analysis:
 
 ---
 
-# ✅ Conclusion
+# Conclusion
 
 The **Hospital Emergency Room Analytics Dashboard** demonstrates a complete healthcare analytics workflow using **Python, SQL, and Tableau**.
 
@@ -227,9 +227,7 @@ The project successfully converts raw hospital data into actionable insights by 
 
 The interactive dashboard enables healthcare stakeholders to make informed decisions and improve emergency department efficiency.
 
-# 🖥️ Dashboard Preview
-
-Add your Tableau dashboard screenshot:
+# Dashboard Preview
 
 ![Hospital ER Dashboard](Images/dashboard.png)
 
