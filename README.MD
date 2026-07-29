@@ -229,6 +229,6 @@ The interactive dashboard enables healthcare stakeholders to make informed decis
 
 # Dashboard Preview
 
-![Hospital ER Dashboard](Images/dashboard.png)
+![Hospital ER Dashboard](Tableau Dashboard.png)
 
 ---
